@@ -55,23 +55,23 @@
               <div class="yamm navbar"> 
                 <!-- Nav Start -->
                 <ul class="nav">
-                  <li> <a href="?admin=admin&mod=home&act=index"> Home </a>
+                  <li> <a href="?admin=admin&mod=home&act=index"> Trang chủ </a>
                     
                   </li>
                   
-                  <li class="dropdown"> <a href="19_category_masonry.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Category Styles </a>
+                  <li class="dropdown"> <a href="19_category_masonry.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Tổng hợp </a>
                     <ul class="dropdown-menu">
                       
-                      <li> <a href="?admin=admin&mod=home&act=homCategory">Home Category</a> </li>
-                      <li> <a href="?admin=admin&mod=home&act=postImg">Post IMG</a></li>
-                      <li> <a href="?admin=admin&mod=home&act=listPost">List Post</a> </li>
+                      <li> <a href="?admin=admin&mod=home&act=homCategory">Danh mục</a> </li>
+                      <li> <a href="?admin=admin&mod=home&act=postImg">Ảnh</a></li>
+                      <li> <a href="?admin=admin&mod=home&act=listPost">Bài viết</a> </li>
                       
                     </ul>
                   </li>
-                  <li class="dropdown"> <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Pages </a>
+                  <li class="dropdown"> <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Giới thiệu </a>
                     <ul class="dropdown-menu">
-                      <li> <a href="21_about.html">About</a></li>
-                      <li> <a href="?admin=admin&mod=home&act=conTact">Contacts Us</a> </li>
+                      
+                      <li> <a href="?admin=admin&mod=home&act=conTact">Giới thiệu</a> </li>
                       
                     </ul>
                   </li>

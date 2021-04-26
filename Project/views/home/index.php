@@ -31,18 +31,18 @@
           <div class="yamm navbar"> 
             <!-- Nav Start -->
             <ul class="nav" >
-              <li> <a href="?admin=admin&mod=home&act=index"> Home </a>
+              <li> <a href="?admin=admin&mod=home&act=index"> Trang chủ </a>
                 
               </li>
-              <li class="dropdown"> <a href="19_category_masonry.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Category Styles </a>
+              <li class="dropdown"> <a href="19_category_masonry.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Tổng hợp </a>
                 <ul class="dropdown-menu">
-                  <li> <a href="?admin=admin&mod=home&act=homCategory">Home Category </a> </li>
-                  <li> <a href="?admin=admin&mod=home&act=postImg">Post IMG</a> </li>
-                  <li> <a href="?admin=admin&mod=home&act=listPost"> List Post</a></li>
+                  <li> <a href="?admin=admin&mod=home&act=homCategory">Danh mục </a> </li>
+                  <li> <a href="?admin=admin&mod=home&act=postImg">Ảnh</a> </li>
+                  <li> <a href="?admin=admin&mod=home&act=listPost">Bài viết</a></li>
                 </ul>
               </li>
               <!-- Mega Menu -->
-              <li class="dropdown yamm-fullwidth"> <a href="17_category_list.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Design </a>
+              <li class="dropdown yamm-fullwidth"> <a href="17_category_list.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Thể loại </a>
                 <ul class="dropdown-menu">
                   <li class="grid-nav"> 
                     <!-- Row -->
@@ -57,10 +57,10 @@
                   </li>
                 </ul>
               </li>
-              <li class="dropdown"> <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Pages </a>
+              <li class="dropdown"> <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"> Giới thiệu </a>
                 <ul class="dropdown-menu">
-                  <li> <a href="21_about.html">About</a></li>
-                  <li> <a href="?admin=admin&mod=home&act=conTact">Contacts Us</a> </li>
+                  
+                  <li> <a href="?admin=admin&mod=home&act=conTact">Giới thiệu</a> </li>
                 </ul>
               </li>
             </ul>
@@ -71,9 +71,10 @@
         <!--======= SEARCH =========-->
         <div id="sb-search" class="sb-search">
           <form>
-            <input class="sb-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
+            
             <input class="sb-search-submit" type="submit" value="">
-            <span class="sb-icon-search"><i class="fa fa-search"></i></span>
+            <span class="sb-icon-search" ><a href="?admin=auth&mod=login&act=loginForm"><b>LOGIN</b>
+            </a></span>
           </form>
         </div>
       </nav>
